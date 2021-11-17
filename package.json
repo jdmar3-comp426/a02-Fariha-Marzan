@@ -11,9 +11,13 @@
     "url": "git+https://github.com/jdmar3-comp426/a02-Fariha-Marzan.git"
   },
   "author": "Fariha Marzan",
-  "license": "ISC",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/jdmar3-comp426/a02-Fariha-Marzan/issues"
   },
-  "homepage": "https://github.com/jdmar3-comp426/a02-Fariha-Marzan#readme"
+  "homepage": "https://github.com/jdmar3-comp426/a02-Fariha-Marzan#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7",
+    "bulma": "^0.9.3"
+  }
 }
